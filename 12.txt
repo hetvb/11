@@ -21,43 +21,94 @@ CCTV14少儿,http://[2409:8087:7:20::3]/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV15音乐,http://[2409:8087:1:20:20::2d]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?servicetype=1&accountinfo=~~V2.0~WyklhmFh7oMx-lG1tNUcSQ~PepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Ggfx09IYQ0HOnjH2d6pZUp~ExtInfo9bj61dxzlMXrsixrqcFYPg:20240420192557%2C%2C%2C20240420192557%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&hms_devid=3731#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Ggfx09IYQ0HOnjH2d6pZUp%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192557%2C%2C%2C20240420192557%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV17农业农村,http://[2409:8087:7:20::5]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=~~V2.0~EkwQnoHNXRDb-IayWakK1A~PepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt~ExtInfo9bj61dxzlMXrsixrqcFYPg:20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&hms_devid=3799#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 北方广电,#genre#
-CCTV-1综合, http://183.203.182.117:9616/hls/1/index.m3u8
-CCTV-2财经, http://183.203.182.117:9616/hls/2/index.m3u8
-CCTV-3综艺, http://183.203.182.117:9616/hls/3/index.m3u8
-CCTV-4中文国际, http://183.203.182.117:9616/hls/4/index.m3u8
-CCTV-5体育, http://183.203.182.117:9616/hls/5/index.m3u8
-CCTV-6电影, http://183.203.182.117:9616/hls/6/index.m3u8
-CCTV-7军事农业, http://183.203.182.117:9616/hls/7/index.m3u8
-CCTV-8电视剧, http://183.203.182.117:9616/hls/8/index.m3u8
-CCTV-9记录, http://183.203.182.117:9616/hls/9/index.m3u8
-CCTV-10科教, http://183.203.182.117:9616/hls/10/index.m3u8
-CCTV-11戏曲, http://183.203.182.117:9616/hls/11/index.m3u8
-CCTV-12社会与法, http://183.203.182.117:9616/hls/12/index.m3u8
-CCTV-13新闻, http://183.203.182.117:9616/hls/13/index.m3u8
-CCTV-14少儿, http://183.203.182.117:9616/hls/14/index.m3u8
-CCTV-15音乐, http://183.203.182.117:9616/hls/15/index.m3u8
-北京卫视, http://183.203.182.117:9616/hls/16/index.m3u8
-东方卫视, http://183.203.182.117:9616/hls/17/index.m3u8
-吉林卫视, http://183.203.182.117:9616/hls/18/index.m3u8
-辽宁卫视, http://183.203.182.117:9616/hls/19/index.m3u8
-黑龙江卫视, http://183.203.182.117:9616/hls/20/index.m3u8
-内蒙古卫视, http://183.203.182.117:9616/hls/21/index.m3u8
-河北卫视, http://183.203.182.117:9616/hls/22/index.m3u8
-山东卫视, http://183.203.182.117:9616/hls/23/index.m3u8
-山西卫视+, http://183.203.182.117:9616/hls/24/index.m3u8
-天津卫视, http://183.203.182.117:9616/hls/25/index.m3u8
-河南卫视, http://183.203.182.117:9616/hls/26/index.m3u8
-安徽卫视, http://183.203.182.117:9616/hls/27/index.m3u8
-陕西卫视, http://183.203.182.117:9616/hls/28/index.m3u8
-甘肃卫视, http://183.203.182.117:9616/hls/29/index.m3u8
-江苏卫视, http://183.203.182.117:9616/hls/30/index.m3u8
-浙江卫视, http://183.203.182.117:9616/hls/31/index.m3u8
-四川卫视, http://183.203.182.117:9616/hls/32/index.m3u8
-青海卫视, http://183.203.182.117:9616/hls/33/index.m3u8
-宁夏卫视, http://183.203.182.117:9616/hls/34/index.m3u8
-江西卫视, http://183.203.182.117:9616/hls/35/index.m3u8
-湖北卫视, http://183.203.182.117:9616/hls/36/index.m3u8
-湖南卫视, http://183.203.182.117:9616/hls/37/index.m3u8
-东南卫视, http://183.203.182.117:9616/hls/38/index.m3u8
-贵州卫视, http://183.203.182.117:9616/hls/39/index.m3u8
-广东卫视, http://183.203.182.117:9616/hls/40/index.m3u8
+CCTV1综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv1
+CCTV2财经 ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv2
+CCTV3综艺,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv3
+CCTV4中文国际,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv4
+CCTV4美洲,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv4a
+CCTV4欧洲,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv4o
+CCTV5体育,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv5
+CCTV5+体育赛事,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv5p
+CCTV6电影,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv6
+CCTV7国防军事,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv7
+CCTV8电视剧  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv8
+CCTV9纪录,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv9
+CCTV10科教  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv10
+CCTV11戏曲  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv11
+CCTV12社会与法,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv12
+CCTV13新闻  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv13
+CCTV14少儿  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv14
+CCTV15音乐  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv15
+CCTV17农业农村,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv17
+CCTV发现之旅,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=fxzl
+CCTV老故事  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=lgs
+CCTV中学生  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=zxs
+CGTN     ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtn
+CGTN纪录,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtnjl
+CCTV西班牙语,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtne
+CCTV法语,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtnf
+CCTV阿拉伯语,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtna
+CCTV俄语,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtnr
+东方卫视x,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dfws
+重庆卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cqws
+吉林卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jlws
+辽宁卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=lnws
+内蒙古卫视  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=nmws
+宁夏卫视x   ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=nxws
+甘肃卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gsws
+青海卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=qhws
+陕西卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=sxws
+山东卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=sdws
+河南卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hnws
+湖北卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hubws
+湖南卫视x   ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hunws
+江西卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jxws
+江苏卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jsws
+东南卫视x   ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dnws
+海峡卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hxws
+广东卫视x   ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gdws
+大湾区卫视  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dwqws
+广西卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gxws
+云南卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=ynws
+贵州卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gzws
+新疆卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=xjws
+西藏卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=xzws
+海南卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hinw
+四海钓鱼,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=shdy
+CHC动作电影 ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=chcdzdy
+CHC家庭影院 ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=chcjtdy
+东方影视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dfys
+上海新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=shxwzh
+上海第一财,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dycj
+上视纪实人文,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=shjsrw
+上海外语,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=shics
+法治天地,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=fztd
+劲爆体育,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jbty
+魅力足球,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=mlzq
+乐游    ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=ly
+欢笑剧场,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hxjc
+七彩戏剧,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=qcxj
+游戏风云,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=yxfy
+临洮电视台,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=lttv
+江苏城市,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jscs
+江苏综艺,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jszy
+江苏影视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jsys
+江苏公共新闻,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jsggxw
+江苏国际,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jsgj
+江苏教育,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jsjy
+江苏体育休闲,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jstyxx
+优漫卡通,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=ymkt
+南京新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=njxwzh
+南京教科,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=njkj
+南京十八,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=njsb
+淮安新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=haxwzh
+连云港新闻综合   ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=lygxwzh
+苏州新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=szxwzh
+泰州新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=tzxwzh
+宿迁新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=sqxwzh
+徐州新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=xzxwzh
+广东影视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gdys
+嘉佳卡通,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jjkt
+未知1,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hllmc1
+未知2,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hllmc29
+未知3,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hllmc30
