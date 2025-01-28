@@ -1,7 +1,3 @@
-bj移动,#genre#,http://cdn.1678520.xyz/epg/
-凤凰咨询台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 咪咕央视ipv4,#genre#,http://cdn.1678520.xyz/epg/
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
