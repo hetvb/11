@@ -178,70 +178,46 @@ CCTV-5＋高清,rtsp://180.95.143.18/PLTV/88888910/224/3221225570/10000100000000
 爱综艺,rtsp://180.95.143.18/PLTV/88888910/224/3221225507/10000100000000060000000000107287_0.smil
 直播珠峰,rtsp://180.95.143.18/PLTV/88888910/224/3221225590/10000100000000060000000000268750_0.smil
 
-咪咕央视ipv4,#genre#,http://cdn.1678520.xyz/epg/
-CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
-CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
-CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-2财经,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3综艺,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
-CCTV-4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
-CCTV-5体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5+体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-8电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-9纪录,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10科教,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13新闻,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14少儿,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV-15音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
-CCTV发现之旅,http://z.b.bkpcp.top/m.php?id=fxzl
-CCTV中学生,http://z.b.bkpcp.top/m.php?id=zxs
-CETV 1 中国教育,http://z.b.bkpcp.top/m.php?id=cetv1
-CETV 2 中国教育,http://z.b.bkpcp.top/m.php?id=cetv2
-CETV 4 中国教育,http://z.b.bkpcp.top/m.php?id=cetv4
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
-江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
-东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
-陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
-江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
-湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
-河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
-东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
-大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
-广东影视,http://z.b.bkpcp.top/m.php?id=gdys
-上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
-上海东方影视,http://z.b.bkpcp.top/m.php?id=shys
-SiTV 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
-SiTV 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
-SiTV 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy
-SiTV 法治天地,http://z.b.bkpcp.top/m.php?id=fztd
-SiTV 乐游,http://z.b.bkpcp.top/m.php?id=ly
-欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
-
-港台,#genre#,http://cdn.1678520.xyz/epg/
+河南学院,#genre#,http://cdn.1678520.xyz/epg/
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+cctv1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+cctv2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+cctv3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+cctv4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+cctv5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+cctv5+,http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
+cctv6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+cctv7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+cctv8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+cctv9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+cctv10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+cctv11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+cctv12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+cctv13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+cctv14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
+北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+北京体育,http://iptv.huuc.edu.cn/hls/btv3hd.m3u8
+北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+北京纪实,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+河北卫视,http://iptv.huuc.edu.cn/hls/nbhd.m3u8
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
 凤凰咨询台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
-1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-翡翠台3,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3#http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台4,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4#http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台北美版HD,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
-藏语频道,http://php.jdshipin.com:8880/xztv.php?id=zy
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-Fashion_4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 广电有线,#genre#,http://cdn.1678520.xyz/epg/
 CCTV1,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-1HD
 CCTV2,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-2HD
@@ -290,4 +266,60 @@ CCTV17,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd
 西藏卫视,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/XZWS
 云南卫视,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/YNWS
 浙江卫视,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/ZJWS-HD
+咪咕央视ipv4,#genre#,http://cdn.1678520.xyz/epg/
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
+CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
+CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-2财经,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV-3综艺,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-4中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+CCTV-4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV-5体育,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5+体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-7国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-9纪录,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV-10科教,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV-11戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-12社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-13新闻,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14少儿,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV-15音乐,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
+CCTV发现之旅,http://z.b.bkpcp.top/m.php?id=fxzl
+CCTV中学生,http://z.b.bkpcp.top/m.php?id=zxs
+CETV 1 中国教育,http://z.b.bkpcp.top/m.php?id=cetv1
+CETV 2 中国教育,http://z.b.bkpcp.top/m.php?id=cetv2
+CETV 4 中国教育,http://z.b.bkpcp.top/m.php?id=cetv4
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
+江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
+东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
+陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
+江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
+湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
+河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
+东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
+大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
+广东影视,http://z.b.bkpcp.top/m.php?id=gdys
+上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
+上海东方影视,http://z.b.bkpcp.top/m.php?id=shys
+SiTV 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
+SiTV 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
+SiTV 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy
+SiTV 法治天地,http://z.b.bkpcp.top/m.php?id=fztd
+SiTV 乐游,http://z.b.bkpcp.top/m.php?id=ly
+欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
+欧美成人,#genre#,http://cdn.1678520.xyz/epg/
+esire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
+razzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
+Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
+Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+EroxHD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+PlayboyHD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+PassionXXX,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+Reality Kings HD,http://88.212.7.11/live/test_reali
 
