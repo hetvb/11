@@ -137,6 +137,12 @@ CHC-动作电影,http://itv.iptv1688.top:2016/itv.php?id=CHC动作电影
 武搏世界,http://itv.iptv1688.top:2016/itv.php?id=武搏世界
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
 特色频道,#genre#,https://e.erw.cc/e.xml
+cctv1,http://39.137.75.234/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=no
+cctv,http://39.137.75.234/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no
+cctv,15http://39.137.75.234/000000001000/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=no
+贵州卫视,http://39.137.75.234/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=no
+河北卫视,http://39.137.75.234/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=no
+四川卫视,http://39.137.75.234/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=no
 北京卫视4K,http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
 澳視衛星台-HD,https://149.102.97.122/ch3/ch3.live/playlist.m3u8
 澳視澳門台-HD,https://149.102.97.122/ch1/ch1.live/playlist.m3u8
