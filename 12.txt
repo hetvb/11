@@ -1,4 +1,4 @@
-
+卫视央视,#genre#,https://e.erw.cc/e.xml
 山东卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-sdws.flv
 东方卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-dfws.flv
 北京卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-bjws.flv
