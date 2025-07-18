@@ -4,14 +4,8 @@
 北京卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-bjws.flv
 天津卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-tjws.flv
 重庆卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-cqws.flv
-吉林卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-jlws.flv
 辽宁卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-lnws.flv
 内蒙古卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-nmgws.flv
-宁夏卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-nxws.flv
-甘肃卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-gsws.flv
-青海卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-qhws.flv
-陕西卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-sxws.flv
-山西卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-sxxws.flv
 河南卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-hnws.flv
 河北卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-hbews.flv
 湖北卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-hubws.flv
@@ -21,10 +15,8 @@
 东南卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-dnws.flv
 广东卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-gdws.flv
 广西卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-gxws.flv
-云南卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-ynws.flv
 贵州卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-gzws.flv
 新疆卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-xjws.flv
-西藏卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-xzws.flv
 海南卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-hinws.flv
 深圳卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-szws.flv
 四川卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-scws.flv
